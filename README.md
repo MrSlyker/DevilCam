@@ -1,7 +1,7 @@
 # DevilCam
 tools are not to be misused
 
-# How to install tools ??
+# How to install ??
 
 pkg update && pkg upgrade -y
 pkg install git -y
@@ -11,4 +11,4 @@ bash devilcam.sh
 
 Blogger   : https://mrslyker.blogspot.com
 
-WordPress : https://mrslyker.wordpress.com
+WordPress : https://mrslyker.code.blog
