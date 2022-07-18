@@ -12,3 +12,5 @@ bash devilcam.sh
 Blogger   : https://mrslyker.blogspot.com
 
 WordPress : https://mrslyker.code.blog
+
+Contact : slykerpmw@gmail.com
