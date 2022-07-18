@@ -13,4 +13,8 @@ Blogger   : https://mrslyker.blogspot.com
 
 WordPress : https://mrslyker.code.blog
 
+# Note
+
+if you find an error in the tool please contact me
+
 Contact : slykerpmw@gmail.com
