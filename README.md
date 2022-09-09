@@ -16,6 +16,7 @@ git clone https://github.com/MrSlyker/DevilCam-Termux
 cd DevilCam-Termux
 bash devilcam.sh
 ```
+
 Donate : https://saweria.co/slyker
 
 ### Note
